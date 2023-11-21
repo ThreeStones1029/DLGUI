@@ -1,3 +1,6 @@
+# DLGUI
+主要在QtVtk的基础上进行修改，QtVtk作为3d界面
+
 # QtVtk
 ###### An integration between Qt Quick Controls 2 and VTK for 3D rendering
 ___
